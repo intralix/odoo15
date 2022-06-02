@@ -1,0 +1,4 @@
+[submodule "javina-lmbl/intx-odoo15"]
+	path = javina-lmbl/intx-odoo15
+	url = git@github.com:javina-lmbl/intx-odoo15.git
+	branch = v15
